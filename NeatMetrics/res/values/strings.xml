@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">DisplayMetrics</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">NeatMetrics</string>
+
+    <!-- LABELS -->
+    <string name="label_screen_density">Your screen density is</string>
+    <string name="label_density">Density</string>
+    <string name="label_scale_density">Scale Density</string>
+    <string name="label_pixels">Pixels</string>
+    <string name="label_width">Width</string>
+    <string name="label_height">Height</string>
+    <string name="label_dpi">Dpi</string>
+    <string name="label_xdpi">xdpi</string>
+    <string name="label_ydpi">ydpi</string>
+
+    <!-- DESCRIPTIONS -->
+
+
+    <!-- SCREEN DENSITIES -->
+    <string name="label_density_400">400</string>
+    <string name="label_density_low">LDPI</string>
+    <string name="label_density_medium">MDPI</string>
+    <string name="label_density_high">HDPI</string>
+    <string name="label_density_xhigh">XHDPI</string>
+    <string name="label_density_xxhigh">XXHDPI</string>
+    <string name="label_density_xxxhigh">XXXHDPI</string>
+    <string name="label_density_tv">TV</string>
+    <string name="label_density_not_specified">Not specified densityDpi: </string>
 
 </resources>

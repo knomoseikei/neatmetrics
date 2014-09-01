@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nm_gray_background">#E6E6E6</color>
+    <color name="nm_gray_shadow">#D6D6D6</color>
+    <color name="nm_green">#50BF50</color>
+    <color name="nm_black">#616161</color>
+    <color name="nm_white">#FFFFFF</color>
+</resources>
